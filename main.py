@@ -9,4 +9,4 @@ c = ",".join(b)
 print(c)
 
 # 4. Kolla på tre-i-rad-spelet och se hur join används där
-# Ok.
+# För att sätta upp spalter / avdelare ( | ) mellan rutorna.
